@@ -1,6 +1,6 @@
 # Animations
 
-Ejercicios para [CourseIt's](https://courseit.io/) 
+Ejercicios para [CourseIt](https://courseit.io/) 
 ---
 >* Crear un elemento de loader animado (spinner, pulse, etc) utilizando keyframes. <br>
 >
